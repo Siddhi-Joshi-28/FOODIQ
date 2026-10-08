@@ -1,0 +1,36 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Generated data
+data/processed/
+data/synthetic/
+
+# ML models
+models/*.pkl
+models/*.joblib
+models/*.bin
+models/*.safetensors
+
+# Hugging Face cache
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db

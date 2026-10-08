@@ -1,0 +1,21 @@
+food_id,food_name,category,price,rating,is_vegetarian
+1,Margherita Pizza,Pizza,196,3.9,True
+2,Veg Burger,Burger,123,3.0,True
+3,Chicken Biryani,Biryani,502,3.0,False
+4,Paneer Tikka,Indian,382,5.0,True
+5,Masala Dosa,South Indian,385,4.8,True
+6,Veg Hakka Noodles,Chinese,396,4.8,True
+7,Manchurian,Chinese,548,4.8,True
+8,Pav Bhaji,Indian,214,4.4,True
+9,Cheese Sandwich,Sandwich,336,4.1,True
+10,White Sauce Pasta,Pasta,415,4.4,True
+11,Red Sauce Pasta,Pasta,112,3.9,True
+12,Paneer Pizza,Pizza,464,4.5,True
+13,Veg Biryani,Biryani,402,3.6,True
+14,Chole Bhature,Indian,405,3.0,True
+15,Gujarati Thali,Gujarati,227,3.9,True
+16,Chocolate Brownie,Dessert,571,4.6,True
+17,Gulab Jamun,Dessert,119,4.8,True
+18,French Fries,Fast Food,492,4.5,True
+19,Veg Wrap,Healthy,297,3.6,True
+20,Fruit Salad,Dessert,554,3.4,True
